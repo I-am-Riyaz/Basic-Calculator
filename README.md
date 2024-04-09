@@ -30,4 +30,4 @@ java BasicCalci
 
 ## Screenshots
 
-![Screenshot](Basic-Calculator/screenshot.png)
+![Screenshot](Basic-Calculator/Screenshot.png)
