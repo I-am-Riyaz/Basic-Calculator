@@ -12,7 +12,7 @@ This is a simple calculator program written in Java using AWT (Abstract Window T
 
 To run this calculator program, you'll need Java Development Kit (JDK) installed on your machine.
 
-1. Clone this repository to your local machine: https://github.com/yourusername/BasicCalculator.git
+1. Clone this repository to your local machine: https://github.com/I-am-Riyaz/Basic-Calculator.git
 
 2. Compile the Java files:
 javac BasicCalci.java
@@ -30,4 +30,4 @@ java BasicCalci
 
 ## Screenshots
 
-![Screenshot](screenshot.png)
+![Screenshot](Basic-Calculator/screenshot.png)
