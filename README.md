@@ -12,9 +12,13 @@ This is a simple calculator program written in Java using AWT (Abstract Window T
 
 To run this calculator program, you'll need Java Development Kit (JDK) installed on your machine.
 
+1. Clone this repository to your local machine: https://github.com/yourusername/BasicCalculator.git
 
+2. Compile the Java files:
+javac BasicCalci.java
 
-
+3. Run the program:
+java BasicCalci
 
 ## Usage
 
@@ -23,3 +27,7 @@ To run this calculator program, you'll need Java Development Kit (JDK) installed
 - Enter the second number.
 - Click the "=" button to see the result.
 - The result will be displayed.
+
+## Screenshots
+
+![Screenshot](screenshot.png)
