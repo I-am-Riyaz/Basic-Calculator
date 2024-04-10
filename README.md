@@ -31,12 +31,3 @@ java BasicCalci
 ## Screenshots
 
 ![Screenshot](Screenshot.png)
-
-## Feedback Request: Basic Calculator Project
-Hello, I've created a simple Basic Calculator in Java using AWT. Could you please try it out and let me know what you think? Any thoughts or suggestions would be really helpful! 
-
-https://github.com/I-am-Riyaz/Basic-Calculator.git
-
-Thanks a lot!
-
-Mohamed Riyaz J
